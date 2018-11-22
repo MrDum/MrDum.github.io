@@ -1,14 +1,12 @@
 
-## Welcome to GitHub Pages
+### Przydatne linki
+# Dostęp zdalny
 
 [TeamViewer 9](http://download.teamviewer.com/download/version_9x/TeamViewer_Setup.exe)
 
-### Markdown
+# Narzędzia
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
