@@ -6,7 +6,7 @@
 
 ### Narzędzia
 
-[teamviewer-logo-big.svg](http://download.teamviewer.com/download/version_9x/TeamViewer_Setup.exe)
+[[Image](teamviewer-logo-big.svg)](http://download.teamviewer.com/download/version_9x/TeamViewer_Setup.exe)
 
 
 
