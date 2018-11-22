@@ -1,16 +1,13 @@
 
-### Przydatne linki
-# Dostęp zdalny
+# Przydatne linki
+### Dostęp zdalny
 
 [TeamViewer 9](http://download.teamviewer.com/download/version_9x/TeamViewer_Setup.exe)
 
-# Narzędzia
+### Narzędzia
 
 
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
