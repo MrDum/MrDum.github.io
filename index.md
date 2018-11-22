@@ -1,3 +1,4 @@
+title: Welcome to the Octocat’s homepage!
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MrDum/MrDum.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
