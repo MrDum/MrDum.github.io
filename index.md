@@ -4,22 +4,9 @@
 
 [TeamViewer 9](http://download.teamviewer.com/download/version_9x/TeamViewer_Setup.exe)
 
+[TeamViewer 14](https://www.teamviewer.com/pl/do-pobrania/windows/)
+
 ### Narzędzia
-
-[[Image](teamviewer-logo-big.svg)](http://download.teamviewer.com/download/version_9x/TeamViewer_Setup.exe)
-
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](teamviewer-logo-big.svg)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
