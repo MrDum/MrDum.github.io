@@ -1,16 +1,16 @@
 
 # Przydatne linki
-### Dostęp zdalny
+## Dostęp zdalny
 
 [Anydesk](https://download.anydesk.com/AnyDesk.exe)
 
-### Narzędzia
+## Narzędzia
 
-# ESET
+### ESET
 
 [ESET Endpoint 64-bit](https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt64.msi)
 
-[ESET Endpoint 32-bit Antivirus](https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt32.msi)
+[ESET Endpoint 32-bit](https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt32.msi)
 
 [ESET NOD32 Antivirus 64-bit](https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_nt64.exe)
 
