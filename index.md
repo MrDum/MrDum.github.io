@@ -2,14 +2,13 @@
 # Przydatne linki
 ### Dostęp zdalny
 
-[TeamViewer 9](http://download.teamviewer.com/download/version_9x/TeamViewer_Setup.exe)
-
-[TeamViewer 14](https://www.teamviewer.com/pl/do-pobrania/windows/)
+[Anydesk](https://download.anydesk.com/AnyDesk.exe)
 
 ### Narzędzia
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#ESET
 
-
-## test 
-
+[ESET Endpoint 64-bit](https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt64.msi)
+[ESET Endpoint 32-bit Antivirus](https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt32.msi)
+[ESET NOD32 Antivirus 64-bit](https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_nt64.exe)
+[ESET NOD32 Antivirus 32-bit](https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_nt32.exe)
