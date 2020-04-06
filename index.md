@@ -1,12 +1,10 @@
-
 <html>
-<body>
 <head>
 <style>
 .container { 
-  height: 200px;
+  height: 50px;
   position: relative;
-  border: 3px solid green; 
+  
 }
 
 .center {
@@ -18,22 +16,25 @@
   transform: translate(-50%, -50%);
 }
 </style>
-
 </head>
+<body>
 
 <div class="container">
   <div class="center">
-
-	<p>Eset<p>
-	<p>
-		<button onclick="location.href='https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt64.msi'" type="button">ESET Endpoint 64-bit</button>
-
-		<button onclick="location.href='https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_nt64.exe'" type="button">ESET NOD32 Antivirus 64-bit</button>
-	<p>
-		<button onclick="location.href='link'" type="button">text</button>
+  				<div class="container">
+  <div class="center">
+  			</p> test</p>
+            </div>
+</div>
+    		<button onclick="location.href='https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt64.msi'" type="button">ESET Endpoint 64-bit</button>
+					<button onclick="location.href='https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_nt64.exe'" type="button">ESET NOD32 Antivirus 64-bit</button>
+                    <button onclick="location.href='link'" type="button">text</button>
 		
 		<button onclick="location.href='link'" type="button">text</button>
-	 </div>
-	</div> 
+
+
+  </div>
+</div>
+
 </body>
 </html>
