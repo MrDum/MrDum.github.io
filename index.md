@@ -21,6 +21,9 @@
 
 </head>
 
+<div class="container">
+  <div class="center">
+
 	<p>Eset<p>
 	<p>
 		<button onclick="location.href='https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt64.msi'" type="button">ESET Endpoint 64-bit</button>
@@ -30,6 +33,7 @@
 		<button onclick="location.href='link'" type="button">text</button>
 		
 		<button onclick="location.href='link'" type="button">text</button>
-		 
+	 </div>
+	</div> 
 </body>
 </html>
