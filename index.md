@@ -5,7 +5,7 @@
 
 ## Narzędzia
 
-[ProduKey](https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt64.msi)
+[ProduKey](https://www.nirsoft.net/utils/produkey.zip)
 
 ## Antivirus
 
