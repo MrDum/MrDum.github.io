@@ -16,6 +16,11 @@
 
 [Po więcej](https://support.eset.com/en/download-and-install-eset-offline-or-install-older-versions-of-eset-products)
 
+### Malwarebytes
+
+[Malwarebytes Anti-Malware](http://downloads.malwarebytes.com/file/mb4_offline)
+
+[Malwarebytes AdwCleaner](https://downloads.malwarebytes.com/file/adwcleaner)
 
 ## VPN
 
@@ -29,10 +34,6 @@
 
 [Shrew Soft VPN Client for Windows 2.2.2-release](https://www.shrew.net/download/vpn/vpn-client-2.2.2-release.exe)
 
-### Shrew Soft VPN
 
-[Malwarebytes Anti-Malware](http://downloads.malwarebytes.com/file/mb4_offline)
-
-[Malwarebytes AdwCleaner](https://downloads.malwarebytes.com/file/adwcleaner)
 
 
