@@ -7,7 +7,7 @@
 
 [ProduKey](https://download.eset.com/com/eset/apps/business/eea/windows/latest/eea_nt64.msi)
 
-## Antyvirus
+## Antivirus
 
 ### ESET
 
