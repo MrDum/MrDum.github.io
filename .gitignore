@@ -1,2 +1,3 @@
-gemfile
-Gemfile
+_site
+.sass-cache
+.jekyll-metadata
