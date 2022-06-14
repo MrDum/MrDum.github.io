@@ -21,12 +21,6 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "pd"
 description              : "Prywatne przygody z DevOpsem"
-header:
-  overlay_image: /assets/images/banner.jpg
-  caption: "Photo by Taylor Vick"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 
 url                      : "https://www.reszt.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
