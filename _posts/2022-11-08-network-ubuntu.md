@@ -1,10 +1,14 @@
 ---
-title:  "Ubuntu netplan"
+title: "Ubuntu netplan"
 header:
   teaser: "/assets/images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg"
+categories:
+  - Ubuntu
 tags:
-  - ubuntu
+  - linux
+
 ---
+
 
 # Przykładowa konfiguracja sieci ubuntu netplan
 
