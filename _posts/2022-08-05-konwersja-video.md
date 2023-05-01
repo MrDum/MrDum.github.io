@@ -1,3 +1,16 @@
+---
+title:  "Convert a movie file to x265 with ffmpeg"
+image:
+  thumbnail: "/assets/images/banner.jpg"w
+  path: "/assets/images/banner.jpg"
+
+header:
+  teaser: "markup-syntax-highlighting-teaser.jpg"
+tags:
+  - ffmpeg
+---
+
+
 # 1. Convert a movie file to x265 with ffmpeg built into Ubuntu
 
 apt-get -y install ffmpeg is enough on Ubuntu 18.04 to convert a video to h.265. I use the following script, which stores converted file in the folder above the one you are currently in:
