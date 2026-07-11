@@ -1,7 +1,7 @@
 ---
 title:  "Convert a movie file to x265 with ffmpeg"
 image:
-  thumbnail: "/assets/images/banner.jpg"w
+  thumbnail: "/assets/images/banner.jpg"
   path: "/assets/images/banner.jpg"
 
 header:
