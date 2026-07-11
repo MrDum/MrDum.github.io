@@ -9,14 +9,18 @@
 # Ruby Gem
 *.gem
 .bundle
-Gemfile.lock
 **/vendor/bundle
 
 # Node.js and NPM
 node_modules
 npm-debug.log*
-package-lock.json
 codekit-config.json
+
+# KDE
+.directory
+
+# Local state
+.local/
 
 # macOS
 .DS_Store
