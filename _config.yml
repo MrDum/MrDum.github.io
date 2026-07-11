@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "pl"
 title                    : "Przygody z różnymi rodzajami piasku"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -78,24 +78,15 @@ include:
   - .htaccess
   - _pages
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
   - Gemfile
   - Gemfile.lock
-  - node_modules
   - package.json
   - package-lock.json
+  - node_modules
   - Rakefile
   - banner.js
   - staticman.yml
+  - vendor
 keep_files:
   - .git
   - .svn
