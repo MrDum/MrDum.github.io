@@ -1,6 +1,16 @@
 ---
-layout: home
+layout: splash
 author_profile: true
+header:
+  image: /assets/images/cetteup-vX_zk5yo7M4-unsplash.jpg
+  overlay_color: "#000000"
+  opacity: 0.6
 ---
 
-<img src="/assets/images/cetteup-vX_zk5yo7M4-unsplash.jpg" alt="banner" width="100%">
+{% for post in site.posts %}
+<article class="archive__item">
+  <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+  <span class="page__meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+  <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+</article>
+{% endfor %}
